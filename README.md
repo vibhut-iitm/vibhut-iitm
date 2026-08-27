@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=620&height=100&lines=B.Tech+IERT+Allahabad+%7C+BS+IIT+Madras;Full-Stack+Dev+%7C+Backend+%7C+AI%2FML;Building+apps+that+actually+work+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=620&height=100&lines=B.Tech+IERT+Allahabad+%7C+BS+IIT+Madras;Full-Stack+Dev+%7C+Backend+%7C+AI%2FML;Building+apps+that+actually+work" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,24 +18,24 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## About Me
 
 I’m a **fourth-year B.Tech. Computer Science and Engineering student at IERT Allahabad**, while also pursuing a **BS in Data Science from IIT Madras**. I’m passionate about building practical software solutions, full-stack web applications, and backend systems. I also enjoy exploring AI/ML, system design, and blockchain technologies while continuously improving my problem-solving and development skills.
 
-- 🎓 **Dual Degree:** B.Tech. CSE at IERT Allahabad & BS in Data Science at IIT Madras
-- 💻 **Building:** Full-stack web applications & AI-powered solutions
-- 🌱 **Currently learning:** Spring Boot & System Design
-- 🔗 **Exploring:** Blockchain & Smart Contracts
-- 💼 **Experience:** Software Development Engineer (SDE) Intern at BLW
-- 🧠 **Interests:** Software Engineering, Backend Development, AI/ML & Data Science
-- 💬 **Ask me about:** React, Node.js, Flask, REST APIs & Python
-- ⚡ I `console.log` everything before touching a debugger — no regrets
+- **Dual Degree:** B.Tech. CSE at IERT Allahabad & BS in Data Science at IIT Madras
+- **Building:** Full-stack web applications & AI-powered solutions
+- **Currently learning:** Spring Boot & System Design
+- **Exploring:** Blockchain & Smart Contracts
+- **Experience:** Software Development Engineer (SDE) Intern at BLW
+- **Interests:** Software Engineering, Backend Development, AI/ML & Data Science
+- **Ask me about:** React, Node.js, Flask, REST APIs & Python
+- I `console.log` everything before touching a debugger — no regrets
 
 ---
 
-## 💼 Internship Experience
+## Internship Experience
 
-### 🚂 Banaras Locomotive Works (BLW)
+### Banaras Locomotive Works (BLW)
 
 **Software Development Engineer (SDE) Intern**  
 **08 June 2026 – 05 July 2026**
@@ -44,7 +44,7 @@ Completed a **28-day internship** at Banaras Locomotive Works (BLW) as a Softwar
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <details open>
 <summary><b>Languages</b></summary>
@@ -117,7 +117,7 @@ Completed a **28-day internship** at Banaras Locomotive Works (BLW) as a Softwar
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vibhut-iitm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=C9D1D9" alt="GitHub Stats"/>
@@ -134,7 +134,7 @@ Completed a **28-day internship** at Banaras Locomotive Works (BLW) as a Softwar
 
 ---
 
-## 🏆 Trophies
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vibhut-iitm&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
@@ -152,7 +152,7 @@ Completed a **28-day internship** at Banaras Locomotive Works (BLW) as a Softwar
 
 <div align="center">
 
-*if you made it this far, consider dropping a ⭐ or just say hi*
+*if you made it this far, consider dropping a star or just say hi*
 
 </div>
 
