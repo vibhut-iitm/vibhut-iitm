@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=620&height=100&lines=B.Tech+IERT+Allahabad+%7C+BS+IIT+Madras;Full-Stack+Dev+%7C+Backend+%7C+AI%2FML;Building+apps+that+actually+work+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=720&height=100&lines=B.Tech+CSE+%7C+IERT+Allahabad+%7C+BS+IIT+Madras;Full-Stack+Developer+%7C+Backend+%7C+AI%2FML;Building+apps+that+actually+work+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -11,6 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vibhanshu-tiwari-a08777289)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23f2003053@ds.study.iitm.ac.in)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vibhut-iitm)
+[![Resume](https://img.shields.io/badge/Resume-View%20Resume-A960FF?style=for-the-badge&logo=readme&logoColor=white)](https://resumevbht.netlify.app/)
 [![Profile Views](https://komarev.com/ghpvc/?username=vibhut-iitm&style=for-the-badge&color=blueviolet)](https://github.com/vibhut-iitm)
 
 </div>
@@ -19,25 +20,102 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-Fourth-year **B.Tech. Computer Science and Engineering student at IERT Allahabad**, pursuing a **BS in Data Science from IIT Madras**. I build full-stack web applications, REST APIs, and AI/ML projects while exploring backend development, system design, and blockchain technologies.
+I'm a **fourth-year B.Tech. Computer Science and Engineering student at IERT Allahabad**, while also pursuing a **BS in Data Science from IIT Madras**.
 
-- 🔨 Working on: AI-powered applications and full-stack web projects
+I enjoy building full-stack applications, working with backend systems and REST APIs, and exploring AI/ML, system design, and blockchain technologies.
+
+- 🔨 Working on: Full-stack and AI-powered applications
 - 🌱 Currently learning: Spring Boot & System Design
 - 🔗 Exploring: Blockchain & Smart Contracts
-- 💼 Internship: Software Development Engineer (SDE) Intern at Banaras Locomotive Works (BLW)
+- 💼 Interested in: Software Engineering, Backend Development & AI/ML
 - 💬 Ask me about: Flask, React, Node.js, REST APIs
 - ⚡ I `console.log` everything before touching a debugger — no regrets
 
 ---
 
+## 🎓 Education
+
+<table>
+<tr>
+<td>
+
+### 🏫 IERT Allahabad
+
+**B.Tech. in Computer Science and Engineering**
+
+📚 UG — **IV Year I Semester**
+
+</td>
+<td>
+
+### 🎓 IIT Madras
+
+**BS in Data Science**
+
+📊 Data Science & Programming
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 💼 Internship Experience
 
-### Banaras Locomotive Works (BLW)
+### 🚂 Banaras Locomotive Works (BLW)
+
 **Software Development Engineer (SDE) Intern**
 
 📅 **08 June 2026 – 05 July 2026**
 
-Completed a **28-day internship** as a Software Development Engineer (SDE) Intern at Banaras Locomotive Works, gaining practical exposure to a professional engineering environment.
+Completed a **28-day internship** as a Software Development Engineer Intern at Banaras Locomotive Works (BLW), gaining practical exposure to a professional engineering environment.
+
+---
+
+### 💻 Techaholic IT Services Pvt. Ltd.
+
+**IT Department Intern**
+
+📅 **28 January 2026 – 28 July 2026**
+
+Successfully completed a **six-month internship** with Techaholic IT Services Pvt. Ltd.
+
+- Worked with the IT Department on various activities and assignments related to IT projects.
+- Successfully completed assigned responsibilities.
+- Gained practical experience in an IT-project environment.
+
+---
+
+## 🚀 Featured Projects
+
+Here are some of the projects I've worked on:
+
+| Project | Description |
+|---|---|
+| 🤖 **GenAI** | AI-powered web project exploring Generative AI applications. |
+| ⚛️ **ReactStart** | A React.js-based web application focused on modern frontend development. |
+| 💻 **Hackthon2** | Collaborative coding platform developed as a technical project. |
+| 🌐 **CoderArmy** | Personal portfolio and web development project. |
+| 🕒 **Clock** | JavaScript-based application implementing time-related functionality. |
+
+🔗 **Check out more projects:** [github.com/vibhut-iitm](https://github.com/vibhut-iitm)
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Best Startup Idea** — United Institute of Technology Hackathon
+- 🌟 Recognized for presenting an innovative startup idea at a hackathon organized with the **Google Developer Group, Prayagraj**.
+
+---
+
+## 🎯 Areas of Interest
+
+<div align="center">
+
+`Full-Stack Development` • `Backend Engineering` • `Artificial Intelligence` • `Machine Learning` • `System Design` • `Blockchain` • `Software Engineering`
+
+</div>
 
 ---
 
@@ -107,8 +185,10 @@ Completed a **28-day internship** as a Software Development Engineer (SDE) Inter
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </details>
 
@@ -117,16 +197,27 @@ Completed a **28-day internship** as a Software Development Engineer (SDE) Inter
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vibhut-iitm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=vibhut-iitm&theme=tokyonight&hide_border=true&background=0D1117&stroke=A960FF&ring=A960FF&fire=FF6B6B&currStreakLabel=A960FF" alt="GitHub Streak"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vibhut-iitm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=C9D1D9" alt="GitHub Stats"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=vibhut-iitm&theme=tokyonight&hide_border=true&background=0D1117&stroke=A960FF&ring=A960FF&fire=FF6B6B&currStreakLabel=A960FF" alt="GitHub Streak"/>
+
 </div>
 
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibhut-iitm&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=A960FF&text_color=C9D1D9" alt="Top Languages"/>
-</div>
+<br/>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vibhut-iitm&bg_color=0D1117&color=A960FF&line=A960FF&point=FFFFFF&area=true&area_color=A960FF&hide_border=true" alt="Contribution Graph"/>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibhut-iitm&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=A960FF&text_color=C9D1D9" alt="Top Languages"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vibhut-iitm&bg_color=0D1117&color=A960FF&line=A960FF&point=FFFFFF&area=true&area_color=A960FF&hide_border=true" alt="Contribution Graph"/>
+
 </div>
 
 ---
@@ -134,7 +225,25 @@ Completed a **28-day internship** as a Software Development Engineer (SDE) Inter
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vibhut-iitm&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=vibhut-iitm&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vibhanshu%20Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vibhanshu-tiwari-a08777289)
+
+[![GitHub](https://img.shields.io/badge/GitHub-vibhut--iitm-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vibhut-iitm)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-A960FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://resumevbht.netlify.app/)
+
+[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23f2003053@ds.study.iitm.ac.in)
+
 </div>
 
 ---
@@ -149,7 +258,7 @@ Completed a **28-day internship** as a Software Development Engineer (SDE) Inter
 
 <div align="center">
 
-*if you made it this far, consider dropping a ⭐ or just say hi*
+### ⭐ If you made it this far, consider dropping a star or just say hi!
 
 </div>
 
