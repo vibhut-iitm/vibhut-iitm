@@ -19,13 +19,25 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-Third-year student doing a dual degree — **B.Tech from IERT Allahabad** and **BS in Data Science from IIT Madras**. I spend most of my time building full-stack web apps, designing REST APIs, and training models when the mood hits.
+Fourth-year **B.Tech. Computer Science and Engineering student at IERT Allahabad**, pursuing a **BS in Data Science from IIT Madras**. I build full-stack web applications, REST APIs, and AI/ML projects while exploring backend development, system design, and blockchain technologies.
 
-- 🔨 Working on: an AI-powered quiz platform with PDF-to-quiz generation
-- 🌱 Currently learning: Spring Boot & system design
-- 🔗 Exploring: Blockchain & smart contracts
+- 🔨 Working on: AI-powered applications and full-stack web projects
+- 🌱 Currently learning: Spring Boot & System Design
+- 🔗 Exploring: Blockchain & Smart Contracts
+- 💼 Internship: Software Development Engineer (SDE) Intern at Banaras Locomotive Works (BLW)
 - 💬 Ask me about: Flask, React, Node.js, REST APIs
 - ⚡ I `console.log` everything before touching a debugger — no regrets
+
+---
+
+## 💼 Internship Experience
+
+### Banaras Locomotive Works (BLW)
+**Software Development Engineer (SDE) Intern**
+
+📅 **08 June 2026 – 05 July 2026**
+
+Completed a **28-day internship** as a Software Development Engineer (SDE) Intern at Banaras Locomotive Works, gaining practical exposure to a professional engineering environment.
 
 ---
 
